@@ -1,0 +1,5 @@
+All the implemented functions and classes are documented and have example usages in the notebook file. The classes are implemented in a similar way to popular machine learning libraries such as scikit-learn. Also, the notebook file is explained using markdowns.
+
+PCA class has fit, transform and inverse_transform methods to fit the data, to apply PCA on data using k principle components, and to transform the data to the original space, respectively. More details can be found in the docstrings, and example usage can be found in the notebook.
+
+LogisticRegression class has fit, __call__ and predict methods to fit the data, to predict the positive class probabilities given a batch of data, and to predict the classes given a batch of data, respectively. More details can be found in docstrings, and example usage can be found in the notebook.
